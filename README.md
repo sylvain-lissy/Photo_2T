@@ -33,7 +33,6 @@ SideProject Tri &amp; Tag de photos
 
 
 ~~~~    ruby startline=3 $%@#$
-def foo(x)
-  return 3
-end
+<HTML>
+const java = function[{test,test}]
 ~~~~~~~
