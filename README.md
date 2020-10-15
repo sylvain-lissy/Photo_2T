@@ -30,3 +30,10 @@ SideProject Tri &amp; Tag de photos
 - Ajout tag, suppression tag `A faire`
 - Suppression image `A faire`
 - Et d'autres à venir...
+
+
+~~~~    ruby startline=3 $%@#$
+def foo(x)
+  return 3
+end
+~~~~~~~
