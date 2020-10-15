@@ -4,12 +4,12 @@ SideProject Tri &amp; Tag de photos
 
 ## Choix technique :
 
-- Langages à utilisés : HTML,CSS, JS ? `A faire`
-- Framework à utilisés: bootstrap, vue.js ? `A faire`
+- Langages à utilisés : HTML,CSS, JS `Fait !`
+- Framework à utilisés: bootstrap, ~vue.js ?~ `Fait !`
 
 ## Charte graphique :
 
-- Choix des couleurs `A faire`
+- Choix des couleurs `En cours ...`
 - Logo `A faire`
 
 ## Design :
