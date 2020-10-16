@@ -1,0 +1,50 @@
+[
+    {
+        "name":"Vert bleu",
+        "hex": "#106879",
+        "rgb": "16 104 121",
+        "cmyk": "41 7 0 53",
+        "pantone": "2238 C"
+    },
+    {
+        "name":"Gris foncé",
+        "hex": "#2D3A4A",
+        "rgb": "45 58 74",
+        "cmyk": "11 6 0 71",
+        "pantone": "7546 C"
+    },
+    {
+        "name":"Gris moyen",
+        "hex": "#57616E",
+        "rgb": "87 97 110",
+        "cmyk": "9 5 0 57",
+        "pantone": "4130 C"
+    },
+    {
+        "name":"Vert bleu foncé",
+        "hex": "#1A4D55",
+        "rgb": "26 77 85",
+        "cmyk": "23 3 0 67",
+        "pantone": "4189 C"
+    },
+    {
+        "name":"Vert bleu moyen",
+        "hex": "#318F9B",
+        "rgb": "49 143 155",
+        "cmyk": "42 5 0 39",
+        "pantone": "2236 C"
+    },
+    {
+        "name":"Vert bleu clair",
+        "hex": "#88BDBE",
+        "rgb": "136 189 190",
+        "cmyk": "21 0 0 25",
+        "pantone": "4174 C"
+    },
+    {
+        "name":"blanc",
+        "hex": "#FCFDFE",
+        "rgb": "252 253 254",
+        "cmyk": "1 0 0 0"
+    }
+]
